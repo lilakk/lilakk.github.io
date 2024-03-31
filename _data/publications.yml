@@ -1,22 +1,33 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "BooookScore: A systematic exploration of book-length summarization in the era of LLMs"
+    authors: <strong>Yapei Chang</strong>, Kyle Lo, Tanya Goyal, Mohit Iyyer
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2310.00785.pdf
+    code: https://github.com/lilakk/BooookScore
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/booookscore.png
+
+  - title: "RankGen: Improving Text Generation with Large Ranking Models"
+    authors: Kalpesh Krishna, <strong>Yapei Chang</strong>, John Wieting, Mohit Iyyer
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2205.09726.pdf
+    code: https://github.com/martiansideofthemoon/rankgen
+    image: ./assets/img/rankgen.png
+
+  - title: "RELIC: Retrieving Evidence for Literary Claims"
+    authors: Katherine Thai, <strong>Yapei Chang</strong>, Kalpesh Krishna, Mohit Iyyer
+    conference_short: ACL
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2203.10053.pdf
+    code: https://github.com/martiansideofthemoon/relic-retrieval
+    image: ./assets/img/relic.png
+
+  - title: "A Broader Range for 'Meaning the Same Thing': Human Against Machine on Hard Paraphrase Detection Tasks"
+    authors: Jamie C. Macbeth, <strong>Yapei Chang</strong>, Jingyu Gin Chen, Yining Hua, Sandra Grandic, Winnie X. Zheng
+    conference_short: ACS
+    conference: Advances in Cognitive Systems <strong>(ACS)</strong>, 2020.
+    pdf: https://advancesincognitivesystems.github.io/acs/data/ACS2020_paper_28.pdf
+    image: ./assets/img/concept-depend.png
