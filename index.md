@@ -10,6 +10,8 @@ I like **gaming** and tinkering with **mechanical keyboards** in the free time I
 
 ## News
 
+- **[Apr. 2024]** Our [preprint](https://arxiv.org/pdf/2404.01261.pdf) on faithfulness evaluation in book-length summarization is out.
+- **[Apr. 2024]** [BooookScore](https://github.com/lilakk/BooookScore) is now available as a Python package.
 - **[Feb. 2024]** Our [paper](https://arxiv.org/pdf/2310.00785.pdf) on book-length summarization is accepted to ICLR 2024 for oral presentation!
 - **[Oct. 2022]** [RankGen](https://arxiv.org/pdf/2205.09726.pdf) paper accepted into EMNLP 2022.
 - **[Sep. 2022]** Started my PhD :)
