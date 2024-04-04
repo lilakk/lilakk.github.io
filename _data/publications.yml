@@ -5,6 +5,7 @@ main:
     conference_short: Preprint
     conference: <strong>Preprint</strong>, 2024.
     pdf: https://arxiv.org/pdf/2404.01261.pdf
+    code: https://github.com/mungg/FABLES
     image: ./assets/img/fables.png
 
   - title: "BooookScore: A systematic exploration of book-length summarization in the era of LLMs"
