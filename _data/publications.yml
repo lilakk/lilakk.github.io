@@ -6,6 +6,7 @@ main:
     conference: <strong>Preprint</strong>, 2024.
     pdf: https://arxiv.org/pdf/2404.01261.pdf
     code: https://github.com/mungg/FABLES
+    page: https://lilakk.github.io/book-summarization.html
     image: ./assets/img/fables.png
 
   - title: "BooookScore: A systematic exploration of book-length summarization in the era of LLMs"
@@ -14,6 +15,7 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2310.00785.pdf
     code: https://github.com/lilakk/BooookScore
+    page: https://lilakk.github.io/book-summarization.html
     notes: Oral Presentation
     image: ./assets/img/booookscore.png
 

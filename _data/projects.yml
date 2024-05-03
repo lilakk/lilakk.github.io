@@ -1,0 +1,5 @@
+main:
+
+  - title: "📚 Book summarization with LLMs"
+    link: /book-summarization.html
+    image: ./assets/img/book-summarization.png
