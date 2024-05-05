@@ -71,7 +71,7 @@ email: yourname (at) example.edu
 # Suchmaschinenoptimierung (SEO)
 # Die folgenden Informationen werden verwendet, um den Website-Traffic von Suchmaschinen, z. B. Google, zu verbessern.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: Yapei Chang's personal website
 canonical: https://minimal-light-theme.yliu.me/
 
 # Verknüpfungen
