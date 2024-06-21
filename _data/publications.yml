@@ -1,10 +1,18 @@
 main:
 
+  - title: "PostMark: A Robust Blackbox Watermark for Large Language Models"
+    authors: <strong>Yapei Chang</strong>, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer
+    conference_short: Preprint
+    conference: <strong>Preprint</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2406.14517
+    code: https://github.com/lilakk/PostMark
+    image: ./assets/img/postmark.png
+
   - title: "FABLES: Evaluating faithfulness and content selection in book-length summarization"
     authors: Yekyung Kim, <strong>Yapei Chang</strong>, Marzena Karpinska, Aparna Garimella, Varun Manjunatha, Kyle Lo, Tanya Goyal, Mohit Iyyer
     conference_short: Preprint
     conference: <strong>Preprint</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2404.01261.pdf
+    pdf: https://arxiv.org/pdf/2404.01261
     code: https://github.com/mungg/FABLES
     page: https://lilakk.github.io/book-summarization.html
     image: ./assets/img/fables.png
