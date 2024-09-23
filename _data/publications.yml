@@ -2,17 +2,17 @@ main:
 
   - title: "PostMark: A Robust Blackbox Watermark for Large Language Models"
     authors: <strong>Yapei Chang</strong>, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer
-    conference_short: Preprint
-    conference: <strong>Preprint</strong>, 2024.
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.14517
     code: https://github.com/lilakk/PostMark
     image: ./assets/img/postmark.png
 
   - title: "FABLES: Evaluating faithfulness and content selection in book-length summarization"
     authors: Yekyung Kim, <strong>Yapei Chang</strong>, Marzena Karpinska, Aparna Garimella, Varun Manjunatha, Kyle Lo, Tanya Goyal, Mohit Iyyer
-    conference_short: Preprint
-    conference: <strong>Preprint</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2404.01261
+    conference_short: COLM
+    conference: Conference on Language Modeling <strong>(COLM)</strong>, 2024.
+    pdf: https://openreview.net/pdf?id=YfHxQSoaWU
     code: https://github.com/mungg/FABLES
     page: https://lilakk.github.io/book-summarization.html
     image: ./assets/img/fables.png
@@ -21,7 +21,7 @@ main:
     authors: <strong>Yapei Chang</strong>, Kyle Lo, Tanya Goyal, Mohit Iyyer
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2310.00785.pdf
+    pdf: https://openreview.net/pdf?id=7Ttk3RzDeu
     code: https://github.com/lilakk/BooookScore
     page: https://lilakk.github.io/book-summarization.html
     notes: Oral Presentation
@@ -31,7 +31,7 @@ main:
     authors: Kalpesh Krishna, <strong>Yapei Chang</strong>, John Wieting, Mohit Iyyer
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2205.09726.pdf
+    pdf: https://aclanthology.org/2022.emnlp-main.15.pdf
     code: https://github.com/martiansideofthemoon/rankgen
     image: ./assets/img/rankgen.png
 
@@ -39,7 +39,7 @@ main:
     authors: Katherine Thai, <strong>Yapei Chang</strong>, Kalpesh Krishna, Mohit Iyyer
     conference_short: ACL
     conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2203.10053.pdf
+    pdf: https://aclanthology.org/2022.acl-long.517.pdf
     code: https://github.com/martiansideofthemoon/relic-retrieval
     image: ./assets/img/relic.png
 
@@ -47,5 +47,5 @@ main:
     authors: Jamie C. Macbeth, <strong>Yapei Chang</strong>, Jingyu Gin Chen, Yining Hua, Sandra Grandic, Winnie X. Zheng
     conference_short: ACS
     conference: Advances in Cognitive Systems <strong>(ACS)</strong>, 2020.
-    pdf: https://advancesincognitivesystems.github.io/acs/data/ACS2020_paper_28.pdf
+    pdf: http://www.cogsys.org/journal/volume10/article-10-7.pdf
     image: ./assets/img/concept-depend.png
