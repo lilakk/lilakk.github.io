@@ -24,7 +24,7 @@ main:
     pdf: https://openreview.net/pdf?id=7Ttk3RzDeu
     code: https://github.com/lilakk/BooookScore
     page: https://lilakk.github.io/book-summarization.html
-    notes: Oral Presentation
+    notes: Oral Presentation (Top 1.2%)
     image: ./assets/img/booookscore.png
 
   - title: "RankGen: Improving Text Generation with Large Ranking Models"
