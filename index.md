@@ -15,7 +15,7 @@ I like **gaming** and tinkering with **mechanical keyboards** in the free time I
 ## Latest Timeline
 
 - **[Nov. 2024]** ✈ Attending EMNLP in Miami, Florida.
-- **[Oct. 2024]** ✈ Attending COLM in Philadelphia, Pennsylvania.
+- **[Oct. 2024]** ✈ Attended COLM in Philadelphia, Pennsylvania.
 - **[Sep. 2024]** [PostMark](https://arxiv.org/pdf/2406.14517) paper on watermarking blackbox LLM outputs is accepted into [EMNLP](https://2024.emnlp.org/) main conference.
 - **[Jul. 2024]** [FABLES](https://openreview.net/pdf?id=YfHxQSoaWU) paper on faithfulness evaluation in book-length summarization is accepted into [COLM](https://colmweb.org/).
 <!-- - **[Jun. 2024]** Our [preprint](https://arxiv.org/pdf/2406.14517) on watermarking blackbox LLM outputs is out. -->
