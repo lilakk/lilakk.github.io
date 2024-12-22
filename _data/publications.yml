@@ -4,7 +4,7 @@ main:
     authors: <strong>Yapei Chang</strong>, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2406.14517
+    pdf: https://aclanthology.org/2024.emnlp-main.506.pdf
     code: https://github.com/lilakk/PostMark
     image: ./assets/img/postmark.png
 
@@ -33,6 +33,7 @@ main:
     conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
     pdf: https://aclanthology.org/2022.emnlp-main.15.pdf
     code: https://github.com/martiansideofthemoon/rankgen
+    notes: Oral Presentation (Top 21.1%)
     image: ./assets/img/rankgen.png
 
   - title: "RELIC: Retrieving Evidence for Literary Claims"
