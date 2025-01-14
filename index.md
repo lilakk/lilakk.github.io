@@ -4,17 +4,17 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm a third-year PhD student at the <a href='https://nlp.cs.umass.edu/'>UMass Amherst NLP Lab</a>, advised by <a href='https://people.cs.umass.edu/~miyyer/'>Prof. Mohit Iyyer</a> with a research focus on NLP. Before starting my PhD, I finished my undergrad at Smith College with a major in CS and a minor in Math. My current research interests include but are not restricted to:
+Hi! I'm a third-year PhD student at the <a href='http://www.cs.umd.edu/'>University of Maryland, College Park</a>, advised by <a href='https://people.cs.umass.edu/~miyyer/'>Prof. Mohit Iyyer</a> with a research focus on NLP. Prior to transferring to UMD, I was affiliated with the <a href='https://nlp.cs.umass.edu/'>UMass Amherst NLP Lab</a>, where I was also advised by Prof. Iyyer. My current research interests include but are not limited to:
 
-- Enabling language models to better follow instructions given long inputs.
-- Building more robust and challenging benchmarks for long-context language models.
-- LLM watermarking and detection.
+- Enabling language models to better follow instructions given long inputs
+- Building more robust and challenging benchmarks for long-context language models
+- LLM watermarking and detection
 
 I like **gaming** and tinkering with **mechanical keyboards** in the free time I aggregate from my fluctuating work-life balance (it's a work in progress ┐(‘～` )┌).
 
 ## Latest Timeline
 
-- **[Jan. 2025]** Moving to UMD!
+- **[Jan. 2025]** Moved to UMD, College Park!
 - **[Nov. 2024]** ✈ Attended [EMNLP](https://2024.emnlp.org/) to present [PostMark](https://arxiv.org/pdf/2406.14517), a paper on watermarking blackbox LLM outputs.
 - **[Oct. 2024]** ✈ Attended [COLM](https://2024.colmweb.org/) to present [FABLES](https://openreview.net/pdf?id=YfHxQSoaWU), a paper on faithfulness evaluation in book-length summarization.
 <!-- - **[Sep. 2024]** [PostMark](https://arxiv.org/pdf/2406.14517) paper on watermarking blackbox LLM outputs is accepted into [EMNLP](https://2024.emnlp.org/) main conference. -->
