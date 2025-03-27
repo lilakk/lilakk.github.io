@@ -1,5 +1,13 @@
 main:
 
+  - title: "CLIPPER: Compression enables long-context synthetic data generation"
+    authors: Chau Minh Pham, <strong>Yapei Chang</strong>, Mohit Iyyer
+    conference_short: Preprint
+    conference: Preprint, 2025.
+    pdf: https://arxiv.org/pdf/2502.14854.pdf
+    code: https://github.com/chtmp223/CLIPPER
+    image: ./assets/img/clipper.png
+
   - title: "PostMark: A Robust Blackbox Watermark for Large Language Models"
     authors: <strong>Yapei Chang</strong>, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer
     conference_short: EMNLP

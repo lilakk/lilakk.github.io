@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm a third-year PhD student at the <a href='http://www.cs.umd.edu/'>University of Maryland, College Park</a>, advised by <a href='https://people.cs.umass.edu/~miyyer/'>Prof. Mohit Iyyer</a> with a research focus on NLP. Prior to transferring to UMD, I was affiliated with the <a href='https://nlp.cs.umass.edu/'>UMass Amherst NLP Lab</a>, where I was also advised by Prof. Iyyer. My current research interests include but are not limited to:
+Hi! I'm a PhD candidate at the <a href='http://www.cs.umd.edu/'>University of Maryland, College Park</a>, advised by <a href='https://people.cs.umass.edu/~miyyer/'>Prof. Mohit Iyyer</a> with a research focus on NLP. Prior to transferring to UMD, I was affiliated with the <a href='https://nlp.cs.umass.edu/'>UMass Amherst NLP Lab</a>, where I was also advised by Prof. Iyyer. My current research interests include but are not limited to:
 
 - Enabling language models to better follow instructions given long inputs
 - Building more robust and challenging benchmarks for long-context language models
@@ -14,7 +14,8 @@ I like **gaming** and tinkering with **mechanical keyboards** in the free time I
 
 ## Latest Timeline
 
-- **[Jan. 2025]** Moved to UMD, College Park!
+- **[Feb. 2025]** Released our [preprint](https://arxiv.org/pdf/2502.14854) on a compression-based synthetic data generation pipeline for long-context narrative reasoning tasks.
+- **[Jan. 2025]** Moved to UMD, College Park! Also got my MS degree from UMass Amherst.
 - **[Nov. 2024]** ✈ Attended [EMNLP](https://2024.emnlp.org/) to present [PostMark](https://arxiv.org/pdf/2406.14517), a paper on watermarking blackbox LLM outputs.
 - **[Oct. 2024]** ✈ Attended [COLM](https://2024.colmweb.org/) to present [FABLES](https://openreview.net/pdf?id=YfHxQSoaWU), a paper on faithfulness evaluation in book-length summarization.
 <!-- - **[Sep. 2024]** [PostMark](https://arxiv.org/pdf/2406.14517) paper on watermarking blackbox LLM outputs is accepted into [EMNLP](https://2024.emnlp.org/) main conference. -->
