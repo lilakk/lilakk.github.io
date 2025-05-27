@@ -1,5 +1,21 @@
 main:
 
+  - title: "BLEUBERI: BLEU is a surprisingly effective reward for instruction following"
+    authors: <strong>Yapei Chang</strong>, Yekyung Kim, Michael Krumdick, Amir Zadeh, Chuan Li, Chris Tanner, Mohit Iyyer
+    conference_short: Preprint
+    conference: Preprint, 2025.
+    pdf: https://arxiv.org/pdf/2505.11080
+    code: https://github.com/lilakk/BLEUBERI
+    image: ./assets/img/bleuberi.png
+
+  - title: "BEARCUBS: A benchmark for computer-using web agents"
+    authors: Yixiao Song, Katherine Thai, Chau Minh Pham, <strong>Yapei Chang</strong>, Mazin Nadaf, Mohit Iyyer
+    conference_short: Preprint
+    conference: Preprint, 2025.
+    pdf: https://arxiv.org/pdf/2503.07919
+    code: https://bear-cubs.github.io/
+    image: ./assets/img/bearcubs.png
+
   - title: "CLIPPER: Compression enables long-context synthetic data generation"
     authors: Chau Minh Pham, <strong>Yapei Chang</strong>, Mohit Iyyer
     conference_short: Preprint
