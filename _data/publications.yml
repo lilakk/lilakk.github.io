@@ -1,5 +1,21 @@
 main:
 
+  - title: "Auto-Eval Judge: Towards a General Agentic Framework for Task Completion Evaluation"
+    authors: Roshita Bhonsle, Rishav Dutta, Sneha Vavilapalli, Harsh Seth, Abubakarr Jaye, <strong>Yapei Chang</strong>, Mukund Rungta, Emmanuel Aboah Boateng, Sadid Hasan, Ehi Nosakhare, Soundar Srinivasan
+    conference_short: Preprint
+    conference: Preprint, 2025.
+    pdf: https://arxiv.org/pdf/2508.05508
+    code: 
+    image: ./assets/img/auto-eval-judge.png
+
+  - title: "Semantically-Aware Rewards for Open-Ended R1 Training in Free-Form Generation"
+    authors: Zongxia Li, <strong>Yapei Chang</strong>, Yuhang Zhou, Xiyang Wu, Zichao Liang, Yoo Yeon Sung, Jordan Lee Boyd-Graber
+    conference_short: Preprint
+    conference: Preprint, 2025.
+    pdf: https://arxiv.org/pdf/2506.15068
+    code: https://github.com/zli12321/free-form-grpo
+    image: ./assets/img/semantically-aware-rewards.png
+
   - title: "BLEUBERI: BLEU is a surprisingly effective reward for instruction following"
     authors: <strong>Yapei Chang</strong>, Yekyung Kim, Michael Krumdick, Amir Zadeh, Chuan Li, Chris Tanner, Mohit Iyyer
     conference_short: Preprint
@@ -10,16 +26,16 @@ main:
 
   - title: "BEARCUBS: A benchmark for computer-using web agents"
     authors: Yixiao Song, Katherine Thai, Chau Minh Pham, <strong>Yapei Chang</strong>, Mazin Nadaf, Mohit Iyyer
-    conference_short: Preprint
-    conference: Preprint, 2025.
+    conference_short: COLM
+    conference: Conference on Language Modeling <strong>(COLM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2503.07919
     code: https://bear-cubs.github.io/
     image: ./assets/img/bearcubs.png
 
   - title: "CLIPPER: Compression enables long-context synthetic data generation"
     authors: Chau Minh Pham, <strong>Yapei Chang</strong>, Mohit Iyyer
-    conference_short: Preprint
-    conference: Preprint, 2025.
+    conference_short: COLM
+    conference: Conference on Language Modeling <strong>(COLM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2502.14854.pdf
     code: https://github.com/chtmp223/CLIPPER
     image: ./assets/img/clipper.png

@@ -7,12 +7,13 @@ layout: homepage
 Hi! I'm a PhD student at the <a href='http://www.cs.umd.edu/'>University of Maryland, College Park</a>, advised by <a href='https://people.cs.umass.edu/~miyyer/'>Prof. Mohit Iyyer</a> with a research focus on NLP. Prior to transferring to UMD, I was affiliated with the <a href='https://nlp.cs.umass.edu/'>UMass Amherst NLP Lab</a>, where I was also advised by Prof. Iyyer. My current research interests include:
 
 - Developing robust and meaningful evaluations for (long-context) language models [[BooookScore](https://openreview.net/pdf?id=7Ttk3RzDeu) (ICLR'24), [FABLES](https://openreview.net/pdf?id=YfHxQSoaWU) (COLM'24), more to come!]
-- Improving language model capabilities through selective data curation [[BLEUBERI](https://arxiv.org/pdf/2505.11080) (preprint)] and high-quality synthetic data generation [[CLIPPER](https://arxiv.org/pdf/2502.14854) (preprint)]
+- Improving language model capabilities through data selection [[BLEUBERI](https://arxiv.org/pdf/2505.11080) (preprint)] and synthetic data generation [[CLIPPER](https://arxiv.org/pdf/2502.14854) (preprint)]
 
 I like **gaming** and tinkering with **mechanical keyboards** in the free time I aggregate from my fluctuating work-life balance (it's a work in progress ┐(‘～` )┌).
 
 ## Updates
 
+- **[Jul 2025]** Invited talk at the Google Multilinguality Reading Group
 - **[Jun 2025]** Started my internship at [Ai2](https://allenai.org/) (OLMo team), working with [Kyle Lo](https://kyleclo.com/) & [Luca Soldaini](https://soldaini.net/)!
 - **[May 2025]** Released [BLEUBERI](https://arxiv.org/pdf/2505.11080) preprint, which shows that simple string-matching metrics like BLEU can be used as effective rewards for improving instruction following with GRPO, and can even match the performance of large reward models.
 - **[Feb. 2025]** Released [CLIPPER](https://arxiv.org/pdf/2502.14854) preprint, which introduces a compression-based synthetic data generation pipeline for long-context narrative reasoning tasks.
