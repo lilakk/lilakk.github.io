@@ -19,7 +19,7 @@ main:
   - title: "BLEUBERI: BLEU is a surprisingly effective reward for instruction following"
     authors: <strong>Yapei Chang</strong>, Yekyung Kim, Michael Krumdick, Amir Zadeh, Chuan Li, Chris Tanner, Mohit Iyyer
     conference_short: NeurIPS
-    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2505.11080
     code: https://github.com/lilakk/BLEUBERI
     image: ./assets/img/bleuberi.png
