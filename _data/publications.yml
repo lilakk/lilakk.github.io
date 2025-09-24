@@ -27,7 +27,7 @@ main:
   - title: "BEARCUBS: A benchmark for computer-using web agents"
     authors: Yixiao Song, Katherine Thai, Chau Minh Pham, <strong>Yapei Chang</strong>, Mazin Nadaf, Mohit Iyyer
     conference_short: COLM
-    conference: Conference on Language Modeling <strong>(COLM)</strong>, 2024.
+    conference: Conference on Language Modeling <strong>(COLM)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2503.07919
     code: https://bear-cubs.github.io/
     image: ./assets/img/bearcubs.png
@@ -35,7 +35,7 @@ main:
   - title: "CLIPPER: Compression enables long-context synthetic data generation"
     authors: Chau Minh Pham, <strong>Yapei Chang</strong>, Mohit Iyyer
     conference_short: COLM
-    conference: Conference on Language Modeling <strong>(COLM)</strong>, 2024.
+    conference: Conference on Language Modeling <strong>(COLM)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2502.14854.pdf
     code: https://github.com/chtmp223/CLIPPER
     image: ./assets/img/clipper.png
