@@ -3,7 +3,7 @@ main:
   - title: "How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs"
     authors: <strong>Yapei Chang</strong>, Kyle Lo, Mohit Iyyer, Luca Soldaini
     conference_short: Preprint
-    conference: Preprint, 2025.
+    conference: Preprint, 2026.
     pdf: https://arxiv.org/pdf/2602.08808
     code: https://github.com/lilakk/how2everything
     image: ./assets/img/how2everything.png
