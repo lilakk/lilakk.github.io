@@ -1,12 +1,28 @@
 main:
 
-  - title: "Auto-Eval Judge: Towards a General Agentic Framework for Task Completion Evaluation"
-    authors: Roshita Bhonsle, Rishav Dutta, Sneha Vavilapalli, Harsh Seth, Abubakarr Jaye, <strong>Yapei Chang</strong>, Mukund Rungta, Emmanuel Aboah Boateng, Sadid Hasan, Ehi Nosakhare, Soundar Srinivasan
+  - title: "How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs"
+    authors: <strong>Yapei Chang</strong>, Kyle Lo, Mohit Iyyer, Luca Soldaini
     conference_short: Preprint
     conference: Preprint, 2025.
+    pdf: https://arxiv.org/pdf/2602.08808
+    code: https://github.com/lilakk/how2everything
+    image: ./assets/img/how2everything.png
+
+  - title: "Olmo 3"
+    authors: Olmo Team, including <strong>Yapei Chang</strong>
+    conference_short: Technical Report
+    conference: Technical Report, 2025.
     pdf: https://arxiv.org/pdf/2508.05508
     code: 
-    image: ./assets/img/auto-eval-judge.png
+    image: ./assets/img/olmo3.png
+
+  # - title: "Auto-Eval Judge: Towards a General Agentic Framework for Task Completion Evaluation"
+  #   authors: Roshita Bhonsle, Rishav Dutta, Sneha Vavilapalli, Harsh Seth, Abubakarr Jaye, <strong>Yapei Chang</strong>, Mukund Rungta, Emmanuel Aboah Boateng, Sadid Hasan, Ehi Nosakhare, Soundar Srinivasan
+  #   conference_short: Preprint
+  #   conference: Preprint, 2025.
+  #   pdf: https://arxiv.org/pdf/2508.05508
+  #   code: 
+  #   image: ./assets/img/auto-eval-judge.png
 
   - title: "Semantically-Aware Rewards for Open-Ended R1 Training in Free-Form Generation"
     authors: Zongxia Li, <strong>Yapei Chang</strong>, Yuhang Zhou, Xiyang Wu, Zichao Liang, Yoo Yeon Sung, Jordan Lee Boyd-Graber
@@ -24,13 +40,13 @@ main:
     code: https://github.com/lilakk/BLEUBERI
     image: ./assets/img/bleuberi.png
 
-  - title: "BEARCUBS: A benchmark for computer-using web agents"
-    authors: Yixiao Song, Katherine Thai, Chau Minh Pham, <strong>Yapei Chang</strong>, Mazin Nadaf, Mohit Iyyer
-    conference_short: COLM
-    conference: Conference on Language Modeling <strong>(COLM)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2503.07919
-    code: https://bear-cubs.github.io/
-    image: ./assets/img/bearcubs.png
+  # - title: "BEARCUBS: A benchmark for computer-using web agents"
+  #   authors: Yixiao Song, Katherine Thai, Chau Minh Pham, <strong>Yapei Chang</strong>, Mazin Nadaf, Mohit Iyyer
+  #   conference_short: COLM
+  #   conference: Conference on Language Modeling <strong>(COLM)</strong>, 2025.
+  #   pdf: https://arxiv.org/pdf/2503.07919
+  #   code: https://bear-cubs.github.io/
+  #   image: ./assets/img/bearcubs.png
 
   - title: "CLIPPER: Compression enables long-context synthetic data generation"
     authors: Chau Minh Pham, <strong>Yapei Chang</strong>, Mohit Iyyer
@@ -40,13 +56,13 @@ main:
     code: https://github.com/chtmp223/CLIPPER
     image: ./assets/img/clipper.png
 
-  - title: "PostMark: A Robust Blackbox Watermark for Large Language Models"
-    authors: <strong>Yapei Chang</strong>, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer
-    conference_short: EMNLP
-    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
-    pdf: https://aclanthology.org/2024.emnlp-main.506.pdf
-    code: https://github.com/lilakk/PostMark
-    image: ./assets/img/postmark.png
+  # - title: "PostMark: A Robust Blackbox Watermark for Large Language Models"
+  #   authors: <strong>Yapei Chang</strong>, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer
+  #   conference_short: EMNLP
+  #   conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
+  #   pdf: https://aclanthology.org/2024.emnlp-main.506.pdf
+  #   code: https://github.com/lilakk/PostMark
+  #   image: ./assets/img/postmark.png
 
   - title: "FABLES: Evaluating faithfulness and content selection in book-length summarization"
     authors: Yekyung Kim, <strong>Yapei Chang</strong>, Marzena Karpinska, Aparna Garimella, Varun Manjunatha, Kyle Lo, Tanya Goyal, Mohit Iyyer
@@ -67,26 +83,26 @@ main:
     notes: Oral Presentation (Top 1.2%)
     image: ./assets/img/booookscore.png
 
-  - title: "RankGen: Improving Text Generation with Large Ranking Models"
-    authors: Kalpesh Krishna, <strong>Yapei Chang</strong>, John Wieting, Mohit Iyyer
-    conference_short: EMNLP
-    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
-    pdf: https://aclanthology.org/2022.emnlp-main.15.pdf
-    code: https://github.com/martiansideofthemoon/rankgen
-    notes: Oral Presentation (Top 21.1%)
-    image: ./assets/img/rankgen.png
+  # - title: "RankGen: Improving Text Generation with Large Ranking Models"
+  #   authors: Kalpesh Krishna, <strong>Yapei Chang</strong>, John Wieting, Mohit Iyyer
+  #   conference_short: EMNLP
+  #   conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
+  #   pdf: https://aclanthology.org/2022.emnlp-main.15.pdf
+  #   code: https://github.com/martiansideofthemoon/rankgen
+  #   notes: Oral Presentation (Top 21.1%)
+  #   image: ./assets/img/rankgen.png
 
-  - title: "RELIC: Retrieving Evidence for Literary Claims"
-    authors: Katherine Thai, <strong>Yapei Chang</strong>, Kalpesh Krishna, Mohit Iyyer
-    conference_short: ACL
-    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2022.
-    pdf: https://aclanthology.org/2022.acl-long.517.pdf
-    code: https://github.com/martiansideofthemoon/relic-retrieval
-    image: ./assets/img/relic.png
+  # - title: "RELIC: Retrieving Evidence for Literary Claims"
+  #   authors: Katherine Thai, <strong>Yapei Chang</strong>, Kalpesh Krishna, Mohit Iyyer
+  #   conference_short: ACL
+  #   conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2022.
+  #   pdf: https://aclanthology.org/2022.acl-long.517.pdf
+  #   code: https://github.com/martiansideofthemoon/relic-retrieval
+  #   image: ./assets/img/relic.png
 
-  - title: "A Broader Range for 'Meaning the Same Thing': Human Against Machine on Hard Paraphrase Detection Tasks"
-    authors: Jamie C. Macbeth, <strong>Yapei Chang</strong>, Jingyu Gin Chen, Yining Hua, Sandra Grandic, Winnie X. Zheng
-    conference_short: ACS
-    conference: Advances in Cognitive Systems <strong>(ACS)</strong>, 2020.
-    pdf: http://www.cogsys.org/journal/volume10/article-10-7.pdf
-    image: ./assets/img/concept-depend.png
+  # - title: "A Broader Range for 'Meaning the Same Thing': Human Against Machine on Hard Paraphrase Detection Tasks"
+  #   authors: Jamie C. Macbeth, <strong>Yapei Chang</strong>, Jingyu Gin Chen, Yining Hua, Sandra Grandic, Winnie X. Zheng
+  #   conference_short: ACS
+  #   conference: Advances in Cognitive Systems <strong>(ACS)</strong>, 2020.
+  #   pdf: http://www.cogsys.org/journal/volume10/article-10-7.pdf
+  #   image: ./assets/img/concept-depend.png
