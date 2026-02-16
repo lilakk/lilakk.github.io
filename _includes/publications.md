@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 5px;">Selected Publications</h2>
 
 <p>For a more up-to-date list of publications, please visit my <a href="https://scholar.google.com/citations?user=qCjnm-UAAAAJ" target="_blank">Google Scholar</a> page.</p>
 
