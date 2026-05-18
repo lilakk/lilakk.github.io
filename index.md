@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm a PhD student at the <a href='http://www.cs.umd.edu/'>University of Maryland, College Park</a>, advised by <a href='https://people.cs.umass.edu/~miyyer/'>Prof. Mohit Iyyer</a> with a research focus on NLP. Prior to transferring to UMD, I was affiliated with the <a href='https://nlp.cs.umass.edu/'>UMass Amherst NLP Lab</a>, where I was also advised by Prof. Iyyer. My current main research interests include:
+Hi! I'm a PhD student at the <a href='http://www.cs.umd.edu/'>University of Maryland, College Park</a>, advised by <a href='https://people.cs.umass.edu/~miyyer/'>Mohit Iyyer</a> with a research focus on NLP. Prior to transferring to UMD, I was affiliated with the <a href='https://nlp.cs.umass.edu/'>UMass Amherst NLP Lab</a>, where I was also advised by Mohit. My current main interests include:
 
 - Reliable / cost-effective metrics for LLM training [[BLEUBERI](https://arxiv.org/pdf/2505.11080) (NeurIPS'25)] and evaluation [[BooookScore](https://openreview.net/pdf?id=7Ttk3RzDeu) (ICLR'24)]
 - Scalable pipelines for model evaluation and training based on synthetic data [[CLIPPER](https://arxiv.org/pdf/2502.14854) (COLM'25)] or rewriting the web [[How2everything](https://arxiv.org/pdf/2602.08808) (preprint)].
@@ -13,7 +13,8 @@ I like **gaming** and tinkering with **mechanical keyboards** in the free time I
 
 ## Updates
 
-- **[Feb 2026]** Released [How2Everything](https://arxiv.org/pdf/2602.08808), a web-scale framework mining step-by-step procedures across diverse domains + a reliable scoring protocol for scalable evaluation and RL-based improvement of step-by-step generation.
+- **[May 2026]** Interning at the NVIDIA Nemotron post-training team over the summer in Santa Clara.
+- **[Feb 2026]** Released [How2Everything](https://arxiv.org/pdf/2602.08808), a web-scale framework mining step-by-step procedures across diverse domains + reliable scoring protocol for scalable evaluation and RL-based improvement.
 - **[Dec 2025]** [Olmo3](https://arxiv.org/pdf/2505.11080) is out! All code, training data, and intermediate model checkpoints are publicly available.
 - **[Jul 2025]** Invited talk at the Google Multilinguality Reading Group.
 - **[Jun 2025]** Started my internship at [Ai2](https://allenai.org/) (OLMo team), working with [Kyle Lo](https://kyleclo.com/) & [Luca Soldaini](https://soldaini.net/)!
